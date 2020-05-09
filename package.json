@@ -1,0 +1,15 @@
+{
+  "name": "hk-970-remote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hello@zebh.se",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.10.1",
+    "jquery": "^3.4.1"
+  }
+}
